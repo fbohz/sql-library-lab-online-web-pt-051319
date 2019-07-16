@@ -1,1 +1,1 @@
-INSERT INTO series (title)
+INSERT INTO series (title) VALUES ("hi"), ("elo");
